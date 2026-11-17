@@ -1,0 +1,10 @@
+# Fichiers produits par la compilation
+build/
+*.elf
+*.dol
+*.nds
+*.map
+*.o
+*.d
+__pycache__/
+*_apercu.png
